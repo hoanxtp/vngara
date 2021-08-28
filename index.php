@@ -1,0 +1,1 @@
+echo 'day la nhanh 1'
